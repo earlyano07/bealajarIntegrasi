@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Yuda",
+      "email": "yuda@gmail.com",
+      "bidang": "FE Dev"
+    },
+    {
+      "name": "earlyano",
+      "email": "earlyano@gmail.com",
+      "bidang": "back end",
+      "id": 2
+    },
+    {
+      "name": "baskoro",
+      "email": "baskoro@gmail.com",
+      "bidang": "devOps",
+      "id": 3
+    }
+  ]
+}
