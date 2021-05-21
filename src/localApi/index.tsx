@@ -71,7 +71,7 @@ const LocalApi = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.headerTxt}> Belajar Integrasi CRUD </Text>
+      <Text style={styles.headerTxt}> Belajar Integrasi CRUD san staging </Text>
       <TextInput placeholder='nama lengkap' style={styles.txtInput} value={name} onChangeText={(value) => setName(value)}/>
       <TextInput placeholder='email'style={styles.txtInput} value={email} onChangeText={(value) => setEmail(value)}/>
       <TextInput placeholder='bidang'style={styles.txtInput} value={bidang} onChangeText={(value) => setBidang(value)}/>
